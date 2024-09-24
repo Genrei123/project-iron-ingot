@@ -8,7 +8,7 @@ module.exports = withMT({
         'button-color': '#a50000',
         'nav-color': "#ffffff",
         'button-texts-color': '#ffffff',
-        'header-color': '#fe4c4c'
+        'header-color': '#fffff'
       }
       
     },
